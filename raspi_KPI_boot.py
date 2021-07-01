@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import os
 from raspi_KPI_boot.net import *
 from raspi_KPI_boot.business_central import *
